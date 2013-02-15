@@ -7,9 +7,9 @@ draw circles, lines, rectangles, bars and many other geometrical figures.
 
 ##Example
 
-   //drawing concentric circles
-   #include <graphics.h>
+     //drawing concentric circles
 
+     #include <graphics.h>
      int main() { 
 
       int gd = DETECT, gm;
